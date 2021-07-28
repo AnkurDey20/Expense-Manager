@@ -24,11 +24,11 @@
 
             button:hover {
                 background-color: green;
-                color:white;
+                color: white;
             }
 
             .cc {
-                color:black;
+                color: white;
             }
 
         </style>
