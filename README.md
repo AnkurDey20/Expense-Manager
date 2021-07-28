@@ -1,8 +1,15 @@
 # Expense Manager
 
+Personal finance management is an important part of people’s lives. However, everyone does not have the knowledge or time to manage their finances in a proper manner. And, even if a person has time and knowledge, they don't bother with tracking their expenses as they find it tedious and time-consuming. Now, you don’t have to worry about managing your expenses, as you can get access to an **Expense Manager** that will help in the active management of your finances.
+
+<br>
+
+## Salient Features
+
 - A basic expense manager that can track an user’s expense. 
 - The user can add the initial budget for the expenses and give it a title. 
-- Further, the user can add bills under the given budget and track her expenses accordingly.
+- The user can also add bills under the given budget and track her expenses accordingly.
+- Provides a detailed view about the budget, plans, all the expenses and who needs to pay back how much to whom.
 
 <br>
 
