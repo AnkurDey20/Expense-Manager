@@ -103,17 +103,6 @@ Personal finance management is an important part of people’s lives. However, e
 	- On success, an alert message appears, which says that the password has been changed.
 
 <br>
- 
-## Running the Project
-
-You can either try signing up or you can login with the dummy credentials as follows:-
-
-```
-Email = 'abc@gmail.com';
-Password = '123456';
-```
-
-<br><br>
 
 ## Screenshots
 
