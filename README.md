@@ -6,7 +6,7 @@ Personal finance management is an important part of people’s lives. However, e
 
 ## Salient Features
 
-- A basic expense manager that can track an user’s expense. 
+- A basic expense manager that can track a user’s expense. 
 - The user can add the initial budget for the expenses and give it a title. 
 - The user can also add bills under the given budget and track her expenses accordingly.
 - Provides a detailed view about the budget, plans, all the expenses and who needs to pay back how much to whom.
